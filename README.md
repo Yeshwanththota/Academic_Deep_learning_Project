@@ -4,6 +4,7 @@
 ![python_badge](https://img.shields.io/badge/numpy--blue?style=flat&logo=numpy)
 ![python_badge](https://img.shields.io/badge/pandas--blue?style=flat&logo=pandas)
 ![python_badge](https://img.shields.io/badge/machine_learning_Algorithms--blue?style=flat&logo=thealgorithms)
+![python_badge](https://img.shields.io/badge/Data_Analysis_and_Visualization--blue?style=flat&logo=python)
 
 # Academic_Deep_learning_Project
 Real time fashion-mnist classification using convolutional Autoencoders.
